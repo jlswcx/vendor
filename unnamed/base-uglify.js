@@ -1,3 +1,11 @@
+/*!
+ * JS 压缩/混淆/美化/加密/解密 源码分享
+ * 
+ * 演示地址：https://www.tianlunvip.com/tool/jsmin.html
+ *
+ * 使用方法：https://blog.csdn.net/tianlunvip
+ *
+ */
 var base2 = {
   name: "base2",
   version: "1.0",
